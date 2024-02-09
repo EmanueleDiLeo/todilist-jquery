@@ -1,5 +1,4 @@
-/* GENERAL */
-
+/*General*/
 * {
   margin: 0;
   padding: 0;
@@ -15,6 +14,7 @@ body {
 .highlights {
   background-color: yellow;
 }
+/*TYPO*/
 h1 {
   font-size: 150%;
 }
